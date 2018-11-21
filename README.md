@@ -1,6 +1,8 @@
 # Linked U
-*Roadmap*
-The objective is to create a linkedin for highschoolers
+*Roadmap*  
+The objective is to create a linkedin for highschoolers  
+[Prototype](https://sites.google.com/site/it353isu/team-schedules/project-prototype)  
+[Final Project](https://sites.google.com/site/it353isu/home/project/project-fall18)  
 
 *Format*  
 Sign-in  
