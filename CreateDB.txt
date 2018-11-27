@@ -7,7 +7,7 @@ create table linkedU.comments (
 ID int,
 comments varchar(500),
 CommentDate date
-)
+);
 
 create table linkedU.studentAcct (
 FirstN varchar(30),
@@ -16,7 +16,7 @@ Email varchar(60),
 ID int,
 Pass varchar(30),
 UserN varchar(30)
-)
+);
 
 create table linkedU.studentHP (
 ACT int,
@@ -28,7 +28,7 @@ Majors varchar(500),
 VideoLinks varchar(500),
 PictureLinks varchar(500),
 ID int
-)
+);
 
 create table linkedU.univHP (
 Description varchar(1000),
@@ -39,7 +39,7 @@ Tutition int,
 GradRate int,
 AvgFinAid int,
 ID int
-)
+);
 
 create table linkedU.univAcct (
 FirstN varchar(30),
@@ -50,4 +50,4 @@ Pass varchar(30),
 UserN varchar(30),
 JobTitle varchar(50),
 UnivName varchar(100)
-)
+);
